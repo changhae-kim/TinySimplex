@@ -1,4 +1,5 @@
 These are the codes which were used in the work:
+
     Kim, C.A.; Van Voorhis, T. Maximizing TADF via Conformational Optimization. J. Phys. Chem. A 2021, 125, (35), 7644-7654. DOI: 10.1021/acs.jpca.1c05104
 
 "SimplexUtil.py" defines functions and variables which are used in the other scripts. Most of the codes are concerned with I/O and file management.
